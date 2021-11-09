@@ -1,0 +1,11 @@
+SampleChat.txt
+
+tester ] hi
+surfbot ] Whaddup.
+tester ] how are you?
+surfbot ] I've seen better days.
+surfbot ] But enough about me, what about you?
+tester ] I'm just fine
+surfbot ] Nice chat... I guess.
+tester ] forget
+surfbot ] Oh geeze, I've forgotten everything. I hate when that happens. Not that I remember it ever happening before.
